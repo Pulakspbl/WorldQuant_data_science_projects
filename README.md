@@ -1,17 +1,9 @@
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/a4af1e3f-40fa-43d4-a9e9-2ee24581bc86" width="300">
-</p>
-
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/ad03158b-f1a8-436d-b414-b4d540d6c244" width="300">
-</p>
-
 | Badge | Certificate |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/a4af1e3f-40fa-43d4-a9e9-2ee24581bc86" width="300"> | <img src="https://github.com/user-attachments/assets/ad03158b-f1a8-436d-b414-b4d540d6c244" width="450"> |
 
-Applied Data Science Lab
-Issued by WorldQuant University
+**Applied Data Science Lab**
+***Issued by WorldQuant University***
 
 Earners of this badge have completed eight end-to-end, applied data science projects. In each project, they accessed data from files, SQL and NoSQL databases and APIs. They have demonstrated their ability to explore and clean data, create functions and ETL pipelines to prepare training sets. They have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.
 
